@@ -1,0 +1,13 @@
+AG_BGMasks_v8.LSP
+Commands:
+BGA - Add a background mask
+BGR - Remove a background mask
+
+AG_DoorDimensions_v8.LSP
+Command: DRD
+
+AG_FindTag_v8.LSP
+Command: FindTag
+
+AG_RoomDimensions_v9.LSP
+Command: RMDM
