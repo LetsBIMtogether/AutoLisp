@@ -3,10 +3,10 @@ AutoLISP routines for architectural designers, adding custom AutoCAD commands fo
 
 ## Added Commands
 
-- **Room Dimensions**: Adds formatted room dimension labels in imperial or metric units.
-- **Door Dimensions**: Places door dimension labels with user-selected positioning.
-- **Tag Search**: Locates specific block attribute tags within drawings.
-- **Background Masks**: Adds or removes background masks for MTEXT objects to enhance readability.
+- **RMDM** (Room Dimensions): Adds formatted room dimension labels in imperial or metric units.
+- **DRD** (Door Dimensions): Places door dimension labels with user-selected positioning.
+- **FindTag** (Tag Search): Locates specific block attribute tags within drawings.
+- **BGA** & **BGR** (Background Masks): Adds or removes background masks for MTEXT objects to enhance readability.
 
 ## Usage
 
