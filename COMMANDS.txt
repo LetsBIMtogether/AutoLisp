@@ -1,13 +1,23 @@
+AG_LayerColorLegend_v4.LSP
+	Command: LayCL
+
+AG_LayersAIA_v5.LSP
+	Commands:
+		LayAIAcreateAll - Add a background mask
+		LayAIAcreateOnly - Remove a background mask
+		LayAIAdeleteAll - Add a background mask
+		LayAIAdeleteOnly - Remove a background mask
+
 AG_BGMasks_v8.LSP
-Commands:
-BGA - Add a background mask
-BGR - Remove a background mask
+	Commands:
+		BGA - Add a background mask
+		BGR - Remove a background mask
 
 AG_DoorDimensions_v8.LSP
-Command: DRD
+	Command: DRD
 
 AG_FindTag_v8.LSP
-Command: FindTag
+	Command: FindTag
 
 AG_RoomDimensions_v9.LSP
-Command: RMDM
+	Command: RMDM
