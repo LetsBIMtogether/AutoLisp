@@ -1,0 +1,5 @@
+# Ignore Windows thumbnail cache files
+**/Thumbs.db
+
+# Misc
+**/.claude/
