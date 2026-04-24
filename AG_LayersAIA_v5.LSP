@@ -212,7 +212,7 @@
     (list "A-WALL-JAMB" 3 "Continuous" "Walls: door and window jambs")
     (list "A-WALL-MESH" 3 "Continuous" "Walls: mesh or wire")
     (list "A-WALL-MOVE" 3 "Continuous" "Walls: moveable")
-    (list "A-WALL-PATT" 1 "Continuous" "Walls: texture and hatch patterns")
+    (list "A-WALL-PATT" 238 "Continuous" "Walls: texture and hatch patterns")
     (list "A-WALL-PRHT" 3 "Continuous" "Walls: partial-height")
   )
 )
