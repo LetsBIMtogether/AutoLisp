@@ -143,6 +143,8 @@
 
 (setq *layers-A*
   (list
+    (list "A-ANNO-DIMS" 1 "Continuous" "Dimensions")
+    (list "A-ANNO-TEXT" 2 "Continuous" "Text")
     (list "A-AREA" 2 "Continuous" "Area")
     (list "A-AREA-OCCP" 2 "Continuous" "Area: occupant or employee names")
     (list "A-BARR" 243 "Continuous" "Barrier")
@@ -208,7 +210,7 @@
     (list "A-WALL-FULL" 243 "Continuous" "Walls: full-height")
     (list "A-WALL-FULL-EXTR" 243 "Continuous" "Walls: full-height: exterior")
     (list "A-WALL-FULL-INTR" 243 "Continuous" "Walls: full-height: interior")
-    (list "A-WALL-HEAD" 3 "Continuous" "Walls: door and window headers")
+    (list "A-WALL-HEAD" 4 "Continuous" "Walls: door and window headers")
     (list "A-WALL-JAMB" 3 "Continuous" "Walls: door and window jambs")
     (list "A-WALL-MESH" 3 "Continuous" "Walls: mesh or wire")
     (list "A-WALL-MOVE" 3 "Continuous" "Walls: moveable")
