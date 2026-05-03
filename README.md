@@ -3,14 +3,11 @@ A collection of AutoLISP routines (scripts) that add custom AutoCAD commands for
 
 ## Videos
 
-- **Loading and Auto-Loading AutoLisp Routines**
-  - https://www.youtube.com/watch?v=MFsBnHQIBGM
-- **Automatic Room Dimensions**
-  - https://www.youtube.com/watch?v=dXaQ9mx0jZw 
-- **Find Tag, Room & Door Dimensions & Background Masks**
-  - https://www.youtube.com/watch?v=UrmG1CulYjQ  
-- **Create or Delete Up to 1,453 AIA/NCS Layers**
-  - https://www.youtube.com/watch?v=R6elUfTXCvA
+- 🎥 [Loading and Auto-Loading AutoLisp Routines](https://www.youtube.com/watch?v=MFsBnHQIBGM)
+- 🎥 [Automatic Room Dimensions](https://www.youtube.com/watch?v=dXaQ9mx0jZw )
+- 🎥 [Find Tag, Room & Door Dimensions & Background Masks](https://www.youtube.com/watch?v=UrmG1CulYjQ)
+- 🎥 [Create or Delete Up to 1,453 AIA/NCS Layers](https://www.youtube.com/watch?v=R6elUfTXCvA)
+- 🎥 [Create a Layer Legend with Colors, Linestyles & Descriptions](https://www.youtube.com/watch?v=KJMM_aD1DBU)
 
 ## Files
 
